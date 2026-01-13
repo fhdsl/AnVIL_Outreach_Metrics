@@ -284,8 +284,8 @@ jobs:
 
       - name: Refresh Youtube
         env:
-          METRICMINER_GOOGLE_ACCESS: ${{ secrets.METRICMINER_GOOGLE_ACCESS }}
-          METRICMINER_GOOGLE_REFRESH: ${{ secrets.METRICMINER_GOOGLE_REFRESH }}
+          GOOGLE_ACCESS_YT: ${{ secrets.GOOGLE_ACCESS_YT }}
+          GOOGLE_REFRESH_YT: ${{ secrets.GOOGLE_REFRESH_YT }}
         run: Rscript refresh-scripts/refresh-youtube.R
 
       - name: Commit Youtube data
