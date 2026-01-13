@@ -155,8 +155,8 @@ jobs:
 
       - name: Refresh Google Analytics
         env:
-          METRICMINER_GOOGLE_ACCESS: ${{ secrets.METRICMINER_GOOGLE_ACCESS }}
-          METRICMINER_GOOGLE_REFRESH: ${{ secrets.METRICMINER_GOOGLE_REFRESH }}
+          GOOGLE_ACCESS_GA: ${{ secrets.GOOGLE_ACCESS_GA }}
+          GOOGLE_REFRESH_GA: ${{ secrets.GOOGLE_REFRESH_GA }}
         run: |
           echo ${{needs.yaml-check.outputs.ga_property_ids}}
           Rscript refresh-scripts/refresh-ga.R
