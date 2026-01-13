@@ -1,0 +1,79 @@
+##### Checks run at pull request #####
+# Check that urls in the content are not broken
+url-checker: true
+url_error_min: 0
+# Render preview of content with changes (Rmd's and md's are checked)
+render-preview: true
+# Spell check Rmds and quizzes
+spell-check: true
+spell_error_min: 0
+# Style any R code
+style-code: true
+# Would you like a readability report on your markdowns?
+readability-report: true
+# Should URLs be tested periodically?
+url-check-periodically: true
+
+############ Metric Collection Destination ##############
+### Options are "github" or "google"
+data_dest: github
+folder_path:
+
+###### Calendly ######
+refresh-calendly: no
+calendly_googlesheet:
+
+###### Citations ######
+refresh-citations: yes
+citation_papers: [
+  "https://scholar.google.com/scholar?cites=6140457238337460780",
+  "https://scholar.google.com/scholar?cites=15945159957067506879" ]
+citation_googlesheet:
+
+###### CRAN ######
+refresh-cran: yes
+cran_packages: [ metricminer, ottrpal ]
+cran_googlesheet:
+
+###### GitHub ######
+refresh-github: yes
+github_repos: [
+  fhdsl/metricminer,
+  fhdsl/metricminer-dashboard,
+  jhudsl/OTTR_Template,
+  jhudsl/OTTR_Template_Website
+  ]
+github_googlesheet:
+
+###### Google Analytics ######
+refresh-ga: yes
+ga_property_ids: [ 422671031, 422558989 ]
+ga_googlesheet:
+
+###### Google Forms ######
+refresh-googleforms: yes
+google_forms: [
+  1DQlUXC3ODKfDWDJJuUBO3azspchS-17xCacOfoWJvhI,
+  1XvE5YOL6lU-uew6jRTLhw-qxl8DD7T--2lsNEvgzMRs ]
+googleforms_googlesheet:
+
+###### Slido ######
+refresh-slido: no
+drive_id: 1QcseQD2mz62Zl-JdyY63u1dC5aTSQC0R
+slido_googlesheet:
+
+###### YouTube ######
+refresh-youtube: yes
+video_ids: [ XN_QPRrJZAw, YkYnni-WuaQ ]
+youtube_googlesheet:
+
+##### Renderings run upon merge to main branch #####
+# Rendering each platform's content
+render-website: rmd_web
+
+################## DOCKER #######################
+# What docker image should be used for rendering?
+# The default is cansav09/metricminer:main
+rendering-docker-image: 'jhudsl/base_ottr:main'
+# What docker image should be to get the data?
+data-image: 'cansav09/metricminer:main'
