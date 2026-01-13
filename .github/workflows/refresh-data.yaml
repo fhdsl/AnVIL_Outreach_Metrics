@@ -123,6 +123,9 @@ jobs:
           fetch-depth: 0
 
       - name: Refresh citations
+        env:
+          GOOGLE_ACCESS_GA: ${{ secrets.GOOGLE_ACCESS_GA }}
+          GOOGLE_REFRESH_GA: ${{ secrets.GOOGLE_REFRESH_GA }}
         run: |
           echo ${{needs.yaml-check.outputs.citation_papers}}
           Rscript refresh-scripts/refresh-citations.R
