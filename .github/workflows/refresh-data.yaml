@@ -16,7 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Load environment from YAML
         uses: doughepi/yaml-env-action@v1.0.0
@@ -89,7 +89,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh CRAN
         run: |
@@ -119,10 +119,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
           fetch-depth: 0
 
       - name: Refresh citations
+        env:
+          GOOGLE_ACCESS_GA: ${{ secrets.GOOGLE_ACCESS_GA }}
+          GOOGLE_REFRESH_GA: ${{ secrets.GOOGLE_REFRESH_GA }}
         run: |
           echo ${{needs.yaml-check.outputs.citation_papers}}
           Rscript refresh-scripts/refresh-citations.R
@@ -151,12 +154,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh Google Analytics
         env:
-          METRICMINER_GOOGLE_ACCESS: ${{ secrets.METRICMINER_GOOGLE_ACCESS }}
-          METRICMINER_GOOGLE_REFRESH: ${{ secrets.METRICMINER_GOOGLE_REFRESH }}
+          GOOGLE_ACCESS_GA: ${{ secrets.GOOGLE_ACCESS_GA }}
+          GOOGLE_REFRESH_GA: ${{ secrets.GOOGLE_REFRESH_GA }}
         run: |
           echo ${{needs.yaml-check.outputs.ga_property_ids}}
           Rscript refresh-scripts/refresh-ga.R
@@ -185,11 +188,11 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh Github
         env:
-          METRICMINER_GITHUB_PAT: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          METRICMINER_GITHUB_PAT: ${{ secrets.GH_PAT }}
         run: Rscript refresh-scripts/refresh-github.R
 
       - name: Commit Github data
@@ -216,7 +219,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh Google Forms
         env:
@@ -248,7 +251,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh Slido
         env:
@@ -280,12 +283,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.METRICMINER_GITHUB_PAT }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Refresh Youtube
         env:
-          METRICMINER_GOOGLE_ACCESS: ${{ secrets.METRICMINER_GOOGLE_ACCESS }}
-          METRICMINER_GOOGLE_REFRESH: ${{ secrets.METRICMINER_GOOGLE_REFRESH }}
+          GOOGLE_ACCESS_YT: ${{ secrets.GOOGLE_ACCESS_YT }}
+          GOOGLE_REFRESH_YT: ${{ secrets.GOOGLE_REFRESH_YT }}
         run: Rscript refresh-scripts/refresh-youtube.R
 
       - name: Commit Youtube data
