@@ -35,6 +35,10 @@ yaml <- yaml::read_yaml(yaml_file_path)
 # Get the metrics
 metrics <- get_multiple_ga_metrics(property_ids = yaml$ga_property_ids, stats_type = c("metrics", "dimensions", "link_clicks"))
 
+#get six month change over time
+#start time is 2021
+#metricSixMonthIncrements <- get_multiple_ga_metrics(property_ids = yaml$ga_property_ids, stats_type = "metrics", start_date = "", end_date = "")
+
 if (yaml$data_dest == "google") {
   googlesheets4::write_sheet(metrics$metrics, 
                             yaml$ga_googlesheet, 
