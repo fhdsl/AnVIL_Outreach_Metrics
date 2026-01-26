@@ -17,8 +17,8 @@ yaml <- yaml::read_yaml(yaml_file_path)
 
 # Authorize Google
 auth_from_secret("google",
-  refresh_token = Sys.getenv("METRICMINER_GOOGLE_REFRESH"),
-  access_token = Sys.getenv("METRICMINER_GOOGLE_ACCESS"),
+  refresh_token = Sys.getenv("GOOGLE_REFRESH_GA"),
+  access_token = Sys.getenv("GOOGLE_ACCESS_GA"),
   cache = TRUE
 )
 

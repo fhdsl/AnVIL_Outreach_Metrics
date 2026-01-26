@@ -11,7 +11,7 @@
 
 
 
-<title>Calendly</title>
+<title>Bioconductor</title>
 
 <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -318,7 +318,7 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">metricminer dashboard</a>
+      <a class="navbar-brand" href="index.html">AnVIL Outreach Metric Dashboard</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -330,24 +330,10 @@ div.tocify {
   </a>
 </li>
 <li>
-  <a href="calendly.html">
-    <span class="fa fa-calendar"></span>
-     
-    Calendly
-  </a>
-</li>
-<li>
   <a href="citations.html">
     <span class="fa fa-scroll"></span>
      
     Citations
-  </a>
-</li>
-<li>
-  <a href="cran.html">
-    <span class="fa fa-r"></span>
-     
-    CRAN
   </a>
 </li>
 <li>
@@ -383,119 +369,32 @@ div.tocify {
 
 
 
-<h1 class="title toc-ignore">Calendly</h1>
-<h4 class="date">13 January, 2026</h4>
+<h1 class="title toc-ignore">Bioconductor</h1>
+<h4 class="date">26 January, 2026</h4>
 
 </div>
 
 
 <div id="preview" class="section level2">
 <h2>Preview</h2>
-<pre><code>## Rows: 1 Columns: 10
-## ── Column specification ────────────────────────────────────────────────────────
-## Delimiter: &quot;\t&quot;
-## chr  (4): event_type, name, status, uri
-## lgl  (2): meeting_notes_html, meeting_notes_plain
-## dttm (4): created_at, end_time, start_time, updated_at
-## 
-## ℹ Use `spec()` to retrieve the full column specification for this data.
-## ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.</code></pre>
-<pre class="r"><code>knitr::kable(calendly)</code></pre>
-<table>
-<colgroup>
-<col width="6%" />
-<col width="6%" />
-<col width="24%" />
-<col width="6%" />
-<col width="6%" />
-<col width="6%" />
-<col width="6%" />
-<col width="2%" />
-<col width="6%" />
-<col width="26%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="left">created_at</th>
-<th align="left">end_time</th>
-<th align="left">event_type</th>
-<th align="left">meeting_notes_html</th>
-<th align="left">meeting_notes_plain</th>
-<th align="left">name</th>
-<th align="left">start_time</th>
-<th align="left">status</th>
-<th align="left">updated_at</th>
-<th align="left">uri</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">2024-01-10 14:29:21</td>
-<td align="left">2024-01-17 14:30:00</td>
-<td align="left"><a
-href="https://api.calendly.com/event_types/d39d7211-9c78-4121-8271-208cfaa34989"
-class="uri">https://api.calendly.com/event_types/d39d7211-9c78-4121-8271-208cfaa34989</a></td>
-<td align="left">NA</td>
-<td align="left">NA</td>
-<td align="left">30 Minute Meeting</td>
-<td align="left">2024-01-17 14:00:00</td>
-<td align="left">active</td>
-<td align="left">2024-01-10 14:29:22</td>
-<td align="left"><a
-href="https://api.calendly.com/scheduled_events/ac7a3d65-37ee-4277-a057-c308bdc7a067"
-class="uri">https://api.calendly.com/scheduled_events/ac7a3d65-37ee-4277-a057-c308bdc7a067</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div id="setting-up-calendly" class="section level2">
-<h2>Setting Up Calendly</h2>
-<ol style="list-style-type: decimal">
-<li>To set up calendly authorization <a
-href="https://calendly.com/integrations/api_webhooks">go here</a> and
-click “Generate Token”.</li>
-<li>Underneath “Choose a name for this token” pick a name that will
-remind you of this project.</li>
-<li>Click “Create Token” and it will send you an authorization code to
-your email.</li>
-<li>Click “Copy Token” and keep this handy.</li>
-<li>Return to your metricminer dashboard repository and go to
-<code>Settings</code> &gt; <code>Secrets and variables</code> &gt;
-<code>Actions</code>.</li>
-<li>Click on <code>New repository secret</code>. Name your new secret
-<em>exactly</em> <code>METRICMINER_CALENDLY</code></li>
-<li>Paste your token into the <code>Secret</code> box and then click the
-green “Add secret” button.</li>
-</ol>
-<p>After you’ve set up authorization you’ll need to check the following
-items in the <code>_config_automation.yml</code> file.</p>
-<ul class="task-list">
-<li><input type="checkbox" />In the <code>_config_automation.yml</code>
-file, make sure that <code>refresh-calendly</code> is set to “yes”.</li>
-<li><input type="checkbox" />Optionally, if you are saving data to
-google, specify a googlesheet ID you’d like the CRAN data to be saved
-to. This will only be relevant if you’ve set <code>data_dest</code> to
-<code>google</code>.</li>
-</ul>
-<pre><code>###### Calendly ######
-refresh-calendly: yes
-calendly_googlesheet:</code></pre>
-</div>
-<div id="customizing-the-data" class="section level2">
-<h2>Customizing the data</h2>
-<p>In order to customize the data you are downloading from calendly you
-can modify the <code>refresh-scripts/refresh-calendly.R</code> script in
-your repository.</p>
-<p>You can take a look at the <a
-href="https://hutchdatascience.org/metricminer/articles/getting-started.html"><code>metricminer</code>
-R package documentation</a> for more details about the functions and
-what is possible.</p>
-<p>If you have a metric need that is not currently fulfilled by
-<code>metricminer</code> or <code>metricminer-dashboard</code> we
-encourage you to <a
-href="https://github.com/fhdsl/metricminer/issues/new/choose">file a
-GitHub issue with us and let us know about your new feature idea (or bug
-report)</a>.</p>
+<p>Total Bioconductor downloads for all packages:</p>
+<pre class="r"><code>cran %&gt;% dplyr::summarize(download_total = sum(count))</code></pre>
+<p>CRAN package downloads over time, summarized by month.</p>
+<pre class="r"><code>cran_stats &lt;- cran %&gt;%
+  separate(date, into=c(&quot;year&quot;, &quot;month name&quot;, &quot;day&quot;), sep = &quot;-&quot;) %&gt;%
+  unite(&quot;Month&quot;, c(&quot;year&quot;, &quot;month name&quot;), sep=&#39;-&#39;, remove=TRUE) %&gt;%  
+  group_by(Month, package) %&gt;%
+  summarise(monthly_downloads = sum(count)) %&gt;% #summarize monthly downloads by package
+  filter(monthly_downloads &gt; 0) #drop the 0&#39;s
+
+ggplot(cran_stats, aes(Month, monthly_downloads, group=package, color = package)) +
+  geom_line() +
+  geom_point() +
+  theme(panel.background = element_blank(), panel.grid = element_blank()) +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(x = NULL,
+       y = &quot;Monthly Downloads&quot;,
+       color = &quot;R Packages&quot;)</code></pre>
 </div>
 
 
