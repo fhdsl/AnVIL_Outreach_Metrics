@@ -35,21 +35,27 @@ yaml <- yaml::read_yaml(yaml_file_path)
 
 all_papers <- lapply(yaml$citation_papers, function(paper) {
   df <- get_citation_count(paper)
+  Sys.sleep(60)
   return(df)
 })
 
 all_papers <- dplyr::bind_rows(all_papers)
 
+num_rows <- nrow(all_papers)
+num_rows_prev <- nrow(ifelse(yaml$data_dest == "github", 
+                             readr::read_tsv(file.path(folder_path, "citations.tsv")),
+                             googlesheets4::read_sheet(yaml$citation_googlesheet, sheet = "citations")
+                             )
+                      )
 
-
-if (yaml$data_dest == "google") {
+if (yaml$data_dest == "google" & num_rows_prev <= num_rows) {
   googlesheets4::write_sheet(all_papers,
                              ss = yaml$citation_googlesheet,
                              sheet = "citations"
   )
 }
 
-if (yaml$data_dest == "github") {
+if (yaml$data_dest == "github" & num_rows_prev <= num_rows) {
   readr::write_tsv(all_papers,
                    file.path(folder_path, "citations.tsv")
   )
