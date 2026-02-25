@@ -77,4 +77,4 @@ render-website: rmd_web
 # The default is cansav09/metricminer:main
 rendering-docker-image: 'jhudsl/base_ottr:main'
 # What docker image should be to get the data?
-data-image: 'cansav09/metricminer:main'
+data-image: 'jhudsl/ottr_metrics:dev_test'
