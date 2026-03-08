@@ -33,6 +33,7 @@ AnVIL Book: Getting Started	01	02	2026	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	01	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
 AnVIL Book: Getting Started	01	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
 AnVIL Book: Getting Started	01	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	01	03	2026	Ukraine	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
 AnVIL Book: Getting Started	01	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/
 AnVIL Book: Getting Started	01	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
 AnVIL Book: Getting Started	01	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-wrap-up.html
@@ -216,6 +217,13 @@ AnVIL Book: Getting Started	02	03	2025	Taiwan	jhudatascience.org/AnVIL_Book_Gett
 AnVIL Book: Getting Started	02	03	2025	Taiwan	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	02	03	2025	Taiwan	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	02	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
+AnVIL Book: Getting Started	02	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/irb-templates.html
+AnVIL Book: Getting Started	02	03	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/step-2-set-up-terra.html
+AnVIL Book: Getting Started	02	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/clone-workspace.html
+AnVIL Book: Getting Started	02	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/galaxy.html
+AnVIL Book: Getting Started	02	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	02	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/jupyter-notebook.html
+AnVIL Book: Getting Started	02	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
 AnVIL Book: Getting Started	02	04	2024	Germany	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	02	04	2024	India	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
 AnVIL Book: Getting Started	02	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/
@@ -447,6 +455,25 @@ AnVIL Book: Getting Started	03	03	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	03	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	03	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	03	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/rstudio.html
+AnVIL Book: Getting Started	03	03	2026	(not set)	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
+AnVIL Book: Getting Started	03	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/budget-templates.html
+AnVIL Book: Getting Started	03	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/consortium-pis-and-lab-managers.html
+AnVIL Book: Getting Started	03	03	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/galaxy-step-by-step-guide.html
+AnVIL Book: Getting Started	03	03	2026	South Korea	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	03	03	2026	South Korea	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/clone-workspace.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/faqs.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/galaxy.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/jupyter-notebook.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/rstudio.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/why-use-anvil.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workflows.html
+AnVIL Book: Getting Started	03	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	03	04	2024	India	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
 AnVIL Book: Getting Started	03	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
 AnVIL Book: Getting Started	03	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-wrap-up.html
@@ -632,6 +659,17 @@ AnVIL Book: Getting Started	04	03	2024	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	04	03	2025	Japan	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	04	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	04	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/authorization-domains.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/data.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/faqs.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/workflows.html
+AnVIL Book: Getting Started	04	03	2026	Sri Lanka	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
+AnVIL Book: Getting Started	04	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	04	04	2024	Germany	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	04	04	2024	Puerto Rico	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	04	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
@@ -857,6 +895,20 @@ AnVIL Book: Getting Started	05	03	2025	Taiwan	jhudatascience.org/AnVIL_Book_Gett
 AnVIL Book: Getting Started	05	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	05	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	05	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	05	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/bring-your-own-data.html
+AnVIL Book: Getting Started	05	03	2026	India	jhudatascience.org/AnVIL_Book_Getting_Started/
+AnVIL Book: Getting Started	05	03	2026	United Kingdom	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
+AnVIL Book: Getting Started	05	03	2026	United Kingdom	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	05	03	2026	United Kingdom	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/galaxy.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/why-use-anvil.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workflows.html
+AnVIL Book: Getting Started	05	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	05	04	2024	Puerto Rico	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
 AnVIL Book: Getting Started	05	04	2024	Puerto Rico	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-wrap-up.html
 AnVIL Book: Getting Started	05	04	2024	Puerto Rico	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
@@ -1039,6 +1091,9 @@ AnVIL Book: Getting Started	06	03	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	06	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	06	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-pis.html
 AnVIL Book: Getting Started	06	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	06	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/consortium-data-submitters.html
+AnVIL Book: Getting Started	06	03	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/access-your-workspaces.html
+AnVIL Book: Getting Started	06	03	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	06	04	2024	Puerto Rico	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-wrap-up.html
 AnVIL Book: Getting Started	06	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	06	04	2025	China	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
@@ -1227,6 +1282,8 @@ AnVIL Book: Getting Started	07	03	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	07	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	07	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	07	03	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
+AnVIL Book: Getting Started	07	03	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/give-us-feedback.html
+AnVIL Book: Getting Started	07	03	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/step-5-set-budgets-and-alerts.html
 AnVIL Book: Getting Started	07	04	2024	United Kingdom	jhudatascience.org/AnVIL_Book_Getting_Started/step-6-add-users-and-workspaces.html
 AnVIL Book: Getting Started	07	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/
 AnVIL Book: Getting Started	07	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/about.html
@@ -5428,6 +5485,7 @@ AnVIL Book: Getting Started	28	02	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	28	02	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	28	02	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-3-add-terra-to-google-billing-account.html
 AnVIL Book: Getting Started	28	02	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
+AnVIL Book: Getting Started	28	02	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
 AnVIL Book: Getting Started	28	03	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/bring-your-own-data.html
 AnVIL Book: Getting Started	28	03	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
 AnVIL Book: Getting Started	28	03	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
@@ -6062,6 +6120,8 @@ AnVIL Book: Getting Started	31	12	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: AnVIL Demos	01	01	2026	China	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	01	01	2026	China	hutchdatascience.org/AnVIL_Demos/run-tool-with-galaxy-getting-started.html
 AnVIL Book: AnVIL Demos	01	02	2026	China	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
+AnVIL Book: AnVIL Demos	01	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
+AnVIL Book: AnVIL Demos	01	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/single-cell-with-bioconductor-overview.html
 AnVIL Book: AnVIL Demos	01	04	2024	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	01	07	2023	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-overview.html
 AnVIL Book: AnVIL Demos	01	07	2023	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-preparation.html
@@ -6111,6 +6171,16 @@ AnVIL Book: AnVIL Demos	02	03	2025	United States	hutchdatascience.org/AnVIL_Demo
 AnVIL Book: AnVIL Demos	02	03	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-exercises.html
 AnVIL Book: AnVIL Demos	02	03	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	02	03	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-preparation.html
+AnVIL Book: AnVIL Demos	02	03	2026	China	hutchdatascience.org/AnVIL_Demos/single-cell-with-bioconductor-overview.html
+AnVIL Book: AnVIL Demos	02	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/1/
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/1/what-is-anvil-exercises.html
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/1/what-is-anvil-preparation.html
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/2/
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/2/what-is-anvil-exercises.html
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/3/
+AnVIL Book: AnVIL Demos	02	03	2026	United States	127.0.0.1/rmd_output/3/what-is-anvil-exercises.html
+AnVIL Book: AnVIL Demos	02	03	2026	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-exercises.html
 AnVIL Book: AnVIL Demos	02	04	2024	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	02	05	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-instructor-guide.html
 AnVIL Book: AnVIL Demos	02	06	2025	United States	hutchdatascience.org/AnVIL_Demos/
@@ -6252,6 +6322,7 @@ AnVIL Book: AnVIL Demos	05	02	2025	United States	hutchdatascience.org/AnVIL_Demo
 AnVIL Book: AnVIL Demos	05	02	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-preparation.html
 AnVIL Book: AnVIL Demos	05	02	2026	United States	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
 AnVIL Book: AnVIL Demos	05	02	2026	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-exercises.html
+AnVIL Book: AnVIL Demos	05	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/index.html
 AnVIL Book: AnVIL Demos	05	04	2024	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-exercises.html
 AnVIL Book: AnVIL Demos	05	04	2024	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-overview.html
 AnVIL Book: AnVIL Demos	05	04	2024	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-preparation.html
@@ -6346,6 +6417,7 @@ AnVIL Book: AnVIL Demos	07	02	2026	China	hutchdatascience.org/AnVIL_Demos/what-i
 AnVIL Book: AnVIL Demos	07	02	2026	China	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	07	03	2025	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	07	03	2025	United States	hutchdatascience.org/AnVIL_Demos/index.html
+AnVIL Book: AnVIL Demos	07	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	07	04	2024	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	07	04	2024	United States	hutchdatascience.org/AnVIL_Demos/create-workflows-with-galaxy-exercises.html
 AnVIL Book: AnVIL Demos	07	04	2024	United States	hutchdatascience.org/AnVIL_Demos/create-workflows-with-galaxy-instructor-guide.html
@@ -7363,6 +7435,7 @@ AnVIL Book: AnVIL Demos	27	11	2023	United States	hutchdatascience.org/AnVIL_Demo
 AnVIL Book: AnVIL Demos	27	11	2025	China	hutchdatascience.org/AnVIL_Demos/single-cell-with-bioconductor-exercises.html
 AnVIL Book: AnVIL Demos	27	12	2025	China	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	27	12	2025	China	hutchdatascience.org/AnVIL_Demos/single-cell-with-bioconductor-overview.html
+AnVIL Book: AnVIL Demos	28	02	2026	China	hutchdatascience.org/AnVIL_Demos/run-tool-with-galaxy-getting-started.html
 AnVIL Book: AnVIL Demos	28	02	2026	China	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	28	02	2026	Singapore	hutchdatascience.org/AnVIL_Demos/what-is-anvil-exercises.html
 AnVIL Book: AnVIL Demos	28	02	2026	Singapore	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
