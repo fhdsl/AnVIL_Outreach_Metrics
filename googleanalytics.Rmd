@@ -27,13 +27,13 @@ make_book_users_barchart(ga_metrics)
 
 ## Monthly Book Interactions
 
-```{r}
+```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
 make_session_monthly_sessions(ga_dimensions)
 ```
 
 ## Cumulative Book Interactions
 
-```{r}
+```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
 make_session_cumsum_sessions(ga_dimensions)
 ```
 
