@@ -8,9 +8,20 @@ output:
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
-Currently this is capped at reporting 10 citations per paper. But this will be fixed soon.
+## Google Scholar Mentions
+
+This tracks the cumulative number of mentions of the keywords `anvil nhgri` on Google Scholar. For example, for 2026 only, we'd see the number of hits with the following url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&as_ylo=2026&q=anvil+nhgri&btnG=
+
+This data is fairly small and static, and is thus stored in the `data/` directory.
+
+```{r echo = FALSE, hide = TRUE, message = FALSE}
+source(file.path("R","scholar_plot_functions.R"))
+make_scholar_hits_plot()
+```
 
 ## Preview
+
+Currently this is capped at reporting 10 citations per paper. But this will be fixed soon.
 
 ```{r, echo = FALSE, hide = TRUE, message = FALSE}
 root_dir <- rprojroot::find_root(rprojroot::has_dir(".git"))
