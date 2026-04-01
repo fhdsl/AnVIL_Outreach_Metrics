@@ -44,9 +44,22 @@ github_googlesheet:
 
 ###### Google Analytics ######
 refresh-ga: yes
-ga_property_ids: [ 
-  377543643, 
-  378491147
+ga_property_ids: [
+  459416730, #AnVIL Book Champions 
+  378491147, #AnVIL Book: AnVIL Demos
+  419934940, #AnVIL Book: Data Subsetting
+  377955956, #AnVIL Book: Epigenetics on AnVIL
+  377543643, #AnVIL Book: Getting Started
+  377952717, #AnVIL Book: Instructor Guide
+  377936985, #AnIVL Book: Molecular Phylogenetics
+  377940703, #AnVIL Book: SRA Data
+  378103140, #AnVIL Book: Urban Genomics
+  458826946, #AnVIL CoFests 2024
+  419972643, #AnVIL Collection
+  512601965, #AnVIL Book WDL
+  510864657, #AnVIL Outreach Dashboard
+  512621256, #AnVIL Poll 2024
+  512504852  #Data on AnVIL 
   ]
 ga_googlesheet:
 
