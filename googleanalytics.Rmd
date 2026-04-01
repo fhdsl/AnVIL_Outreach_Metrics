@@ -18,7 +18,9 @@ ga_dimensions <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_dimensi
 ga_link_clicks <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_link_clicks.tsv"))
 ```
 
-## KPIs
+The AnVIL Outreach Team uses Google Analytics to track usage and engagement of our **online web books**.
+
+## Online Web Books: KPIs
 
 ```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
 source(file.path("R","ga_plot_functions.R"))
