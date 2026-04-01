@@ -375,10 +375,21 @@ div.tocify {
 </div>
 
 
-<p>Currently this is capped at reporting 10 citations per paper. But
-this will be fixed soon.</p>
+<div id="google-scholar-mentions" class="section level2">
+<h2>Google Scholar Mentions</h2>
+<p>This tracks the cumulative number of mentions of the keywords
+<code>anvil nhgri</code> on Google Scholar. For example, for 2026 only,
+we’d see the number of hits with the following url: <a
+href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C21&amp;as_ylo=2026&amp;q=anvil+nhgri&amp;btnG="
+class="uri">https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C21&amp;as_ylo=2026&amp;q=anvil+nhgri&amp;btnG=</a></p>
+<p>This data is fairly small and static, and is thus stored in the
+<code>data/</code> directory.</p>
+<p><img src="citations_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+</div>
 <div id="preview" class="section level2">
 <h2>Preview</h2>
+<p>Currently this is capped at reporting 10 citations per paper. But
+this will be fixed soon.</p>
 <p>Here we show how to get the total counts per original paper:</p>
 <pre class="r"><code>library(dplyr)
 # here we remove duplicates if there are any of the same titles of citing papers for each original paper and then get a count of the number of rows for each original paper (aka how many times it is cited)
