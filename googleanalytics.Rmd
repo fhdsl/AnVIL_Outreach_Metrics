@@ -18,10 +18,16 @@ ga_dimensions <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_dimensi
 ga_link_clicks <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_link_clicks.tsv"))
 ```
 
-## Users by Online Book
+## KPIs
 
 ```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
 source(file.path("R","ga_plot_functions.R"))
+knitr::kable(get_ga_kpis(ga_metrics_data = ga_metrics, ga_dimensions_data = ga_dimensions))
+```
+
+## Users by Online Book
+
+```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
 make_book_users_barchart(ga_metrics)
 ```
 
