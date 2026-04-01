@@ -5,6 +5,19 @@ library(ggplot2)
 install.packages('plotly')
 library(plotly)
 
+get_ga_kpis <- function(ga_dimensions_data, ga_metrics_data){
+  return(tibble(
+    `Total users` = sum(ga_metrics_data$totalUsers),
+    `Total web sessions` = nrow(ga_dimensions_data),
+    `Number of countries represented` = length(unique(ga_dimensions_data$country))
+  ) %>% 
+    pivot_longer(everything()) 
+  %>% rename(KPI = name) 
+    
+  )
+}
+
+
 clean_book_names <- function(in_data) {
   return(in_data %>%
            mutate(
