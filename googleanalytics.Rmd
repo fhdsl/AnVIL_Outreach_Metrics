@@ -8,8 +8,6 @@ output:
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
-## Preview
-
 ```{r, echo = FALSE, hide = TRUE, message = FALSE}
 root_dir <- rprojroot::find_root(rprojroot::has_dir(".git"))
 yaml <- yaml::read_yaml(file.path(root_dir, "_config_automation.yml"))
@@ -18,6 +16,25 @@ yaml <- yaml::read_yaml(file.path(root_dir, "_config_automation.yml"))
 ga_metrics <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_metrics.tsv"))
 ga_dimensions <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_dimensions.tsv"))
 ga_link_clicks <- readr::read_tsv(file.path("metricminer_data", "ga", "ga_link_clicks.tsv"))
+```
+
+## Users by Online Book
+
+```{r echo = FALSE, hide = TRUE, message = FALSE, warning = FALSE}
+source(file.path("R","ga_plot_functions.R"))
+make_book_users_barchart(ga_metrics)
+```
+
+## Monthly Book Interactions
+
+```{r}
+make_session_monthly_sessions(ga_dimensions)
+```
+
+## Cumulative Book Interactions
+
+```{r}
+make_session_cumsum_sessions(ga_dimensions)
 ```
 
 ## Data Information
