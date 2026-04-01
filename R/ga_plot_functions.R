@@ -1,5 +1,8 @@
 library(tidyverse)
 library(ggplot2)
+
+## Not on the docker img:
+install.packages('plotly')
 library(plotly)
 
 # ga_dimensions should be the in_data
