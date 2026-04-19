@@ -241,6 +241,8 @@ AnVIL Book Champions	14	12	2025	Singapore	jhudatascience.org/AnVIL_Book_Champion
 AnVIL Book Champions	15	01	2026	China	jhudatascience.org/AnVIL_Book_Champions/about-the-authors.html
 AnVIL Book Champions	15	03	2026	India	jhudatascience.org/AnVIL_Book_Champions/
 AnVIL Book Champions	15	03	2026	India	jhudatascience.org/AnVIL_Book_Champions/communicate.html
+AnVIL Book Champions	15	04	2026	India	jhudatascience.org/AnVIL_Book_Champions/
+AnVIL Book Champions	15	04	2026	India	jhudatascience.org/AnVIL_Book_Champions/communicate.html
 AnVIL Book Champions	15	09	2025	China	jhudatascience.org/AnVIL_Book_Champions/onboard.html
 AnVIL Book Champions	15	09	2025	Hong Kong	jhudatascience.org/AnVIL_Book_Champions/onboard.html
 AnVIL Book Champions	15	09	2025	Singapore	jhudatascience.org/AnVIL_Book_Champions/onboard.html
@@ -1158,6 +1160,7 @@ AnVIL Book: AnVIL Demos	12	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	12	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/index.html
 AnVIL Book: AnVIL Demos	12	03	2026	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	12	03	2026	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
+AnVIL Book: AnVIL Demos	12	04	2026	United States	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
 AnVIL Book: AnVIL Demos	12	06	2023	United States	127.0.0.1/p/ccf29b70/
 AnVIL Book: AnVIL Demos	12	06	2023	United States	127.0.0.1/p/ccf29b70/?viewer_pane=1&capabilities=1&host=http%3A%2F%2F127.0.0.1%3A8787
 AnVIL Book: AnVIL Demos	12	06	2023	United States	127.0.0.1/p/fac18e48/
@@ -1270,6 +1273,8 @@ AnVIL Book: AnVIL Demos	14	01	2026	United States	hutchdatascience.org/AnVIL_Demo
 AnVIL Book: AnVIL Demos	14	01	2026	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	14	02	2026	Singapore	hutchdatascience.org/AnVIL_Demos/index.html
 AnVIL Book: AnVIL Demos	14	02	2026	Singapore	hutchdatascience.org/AnVIL_Demos/single-cell-with-bioconductor-overview.html
+AnVIL Book: AnVIL Demos	14	04	2026	Singapore	hutchdatascience.org/AnVIL_Demos/instructor-guide.html
+AnVIL Book: AnVIL Demos	14	04	2026	United States	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
 AnVIL Book: AnVIL Demos	14	05	2025	United States	hutchdatascience.org/AnVIL_Demos/create-workflows-with-galaxy-overview.html
 AnVIL Book: AnVIL Demos	14	05	2025	United States	hutchdatascience.org/AnVIL_Demos/create-workflows-with-galaxy-preparation.html
 AnVIL Book: AnVIL Demos	14	05	2025	United States	hutchdatascience.org/AnVIL_Demos/index.html
@@ -1320,6 +1325,7 @@ AnVIL Book: AnVIL Demos	15	03	2026	Singapore	hutchdatascience.org/AnVIL_Demos/in
 AnVIL Book: AnVIL Demos	15	04	2024	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-exercises.html
 AnVIL Book: AnVIL Demos	15	04	2024	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-preparation.html
 AnVIL Book: AnVIL Demos	15	04	2024	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-preparation.html
+AnVIL Book: AnVIL Demos	15	04	2026	Singapore	hutchdatascience.org/AnVIL_Demos/run-tool-with-galaxy-next-steps.html
 AnVIL Book: AnVIL Demos	15	06	2023	United States	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	15	06	2023	United States	hutchdatascience.org/AnVIL_Demos/scale-with-workflows-exercises.html
 AnVIL Book: AnVIL Demos	15	06	2023	United States	localhost/files/docs/index.html
@@ -1379,6 +1385,7 @@ AnVIL Book: AnVIL Demos	16	04	2025	United States	hutchdatascience.org/AnVIL_Demo
 AnVIL Book: AnVIL Demos	16	04	2025	United States	hutchdatascience.org/AnVIL_Demos/index.html
 AnVIL Book: AnVIL Demos	16	04	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-exercises.html
 AnVIL Book: AnVIL Demos	16	04	2025	United States	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
+AnVIL Book: AnVIL Demos	16	04	2026	United States	hutchdatascience.org/AnVIL_Demos/human-genetic-variation-in-mage-exercises.html
 AnVIL Book: AnVIL Demos	16	05	2025	Hungary	hutchdatascience.org/AnVIL_Demos/
 AnVIL Book: AnVIL Demos	16	05	2025	Hungary	hutchdatascience.org/AnVIL_Demos/what-is-anvil-overview.html
 AnVIL Book: AnVIL Demos	16	06	2023	United States	hutchdatascience.org/AnVIL_Demos/
@@ -2135,6 +2142,7 @@ AnVIL Book: Data Subsetting	16	09	2025	China	hutchdatascience.org/AnVIL_Data_Sub
 AnVIL Book: Data Subsetting	16	09	2025	Japan	hutchdatascience.org/AnVIL_Data_Subsetting/introduction.html
 AnVIL Book: Data Subsetting	17	01	2025	United States	hutchdatascience.org/AnVIL_Data_Subsetting/index.html
 AnVIL Book: Data Subsetting	17	01	2025	United States	hutchdatascience.org/AnVIL_Data_Subsetting/introduction.html
+AnVIL Book: Data Subsetting	17	04	2026	Italy	hutchdatascience.org/AnVIL_Data_Subsetting/
 AnVIL Book: Data Subsetting	17	08	2024	United States	hutchdatascience.org/AnVIL_Data_Subsetting/
 AnVIL Book: Data Subsetting	17	12	2024	United States	hutchdatascience.org/AnVIL_Data_Subsetting/
 AnVIL Book: Data Subsetting	19	11	2024	United States	hutchdatascience.org/AnVIL_Data_Subsetting/bringing-the-wdl-workflow-to-anvil.html
@@ -2255,6 +2263,7 @@ AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	12	10	2025	China	hutchdatasc
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	01	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	03	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	03	2026	Singapore	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	04	2026	(not set)	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	05	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	12	2025	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	12	2025	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
@@ -2262,6 +2271,9 @@ AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	13	12	2025	Singapore	hutchda
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	14	05	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	02	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	02	2026	Singapore	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	04	2026	(not set)	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	04	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	04	2026	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	05	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	11	2025	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	15	12	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
@@ -2273,6 +2285,7 @@ AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	02	2025	United States	hut
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	02	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	02	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/index.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	02	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/nature-versus-nurture.html
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	04	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	05	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	09	2025	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	16	09	2025	Hong Kong	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
@@ -2290,6 +2303,7 @@ AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	17	12	2024	United States	hut
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	03	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	03	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	03	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome
+AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	04	2026	Singapore	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/explore-the-epigenome
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	09	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	18	12	2025	United States	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/epigenetics-in-the-media.html
 AnVIL Book: Epigenetics on AnVIL: Nature vs Nurture	19	02	2026	China	hutchdatascience.org/AnVIL_Book_Epigenetics_Intro/index.html
@@ -4530,6 +4544,7 @@ AnVIL Book: Getting Started	11	04	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	11	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-pis.html
 AnVIL Book: Getting Started	11	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	11	04	2026	India	jhudatascience.org/AnVIL_Book_Getting_Started/overview-pis.html.
+AnVIL Book: Getting Started	11	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/overview-videos.html
 AnVIL Book: Getting Started	11	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/galaxy.html
 AnVIL Book: Getting Started	11	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	11	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-3-add-terra-to-google-billing-account.html
@@ -5037,6 +5052,16 @@ AnVIL Book: Getting Started	13	04	2024	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	13	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-2-set-up-google-billing.html
 AnVIL Book: Getting Started	13	04	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	13	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	13	04	2026	Greece	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	13	04	2026	Luxembourg	jhudatascience.org/AnVIL_Book_Getting_Started/data.html
+AnVIL Book: Getting Started	13	04	2026	Luxembourg	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/budget-templates.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/why-use-anvil.html
+AnVIL Book: Getting Started	13	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	13	05	2024	Italy	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	13	05	2024	Italy	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	13	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
@@ -5263,6 +5288,11 @@ AnVIL Book: Getting Started	14	04	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	14	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/troubleshooting.html
 AnVIL Book: Getting Started	14	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workflows.html
 AnVIL Book: Getting Started	14	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
+AnVIL Book: Getting Started	14	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/about.html
+AnVIL Book: Getting Started	14	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	14	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
+AnVIL Book: Getting Started	14	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	14	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	14	05	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/clone-workspace.html
 AnVIL Book: Getting Started	14	05	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
 AnVIL Book: Getting Started	14	05	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
@@ -5527,6 +5557,9 @@ AnVIL Book: Getting Started	15	04	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	15	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	15	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/irb-templates.html
 AnVIL Book: Getting Started	15	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	15	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/
+AnVIL Book: Getting Started	15	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/jupyter-notebook.html
+AnVIL Book: Getting Started	15	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workflows.html
 AnVIL Book: Getting Started	15	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	15	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	15	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-6-add-users-and-workspaces.html
@@ -5676,6 +5709,8 @@ AnVIL Book: Getting Started	16	04	2025	South Korea	jhudatascience.org/AnVIL_Book
 AnVIL Book: Getting Started	16	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
 AnVIL Book: Getting Started	16	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	16	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/rstudio.html
+AnVIL Book: Getting Started	16	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	16	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
 AnVIL Book: Getting Started	16	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	16	05	2025	Austria	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
 AnVIL Book: Getting Started	16	05	2025	Austria	jhudatascience.org/AnVIL_Book_Getting_Started/data.html
@@ -5941,6 +5976,15 @@ AnVIL Book: Getting Started	17	04	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	17	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	17	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/rstudio.html
 AnVIL Book: Getting Started	17	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
+AnVIL Book: Getting Started	17	04	2026	China	jhudatascience.org/AnVIL_Book_Getting_Started/irb-templates.html
+AnVIL Book: Getting Started	17	04	2026	Ireland	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/consortia.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/index.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/introduction.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/why-use-anvil.html
+AnVIL Book: Getting Started	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Getting_Started/workspaces.html
 AnVIL Book: Getting Started	17	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/analyze-existing-data.html
 AnVIL Book: Getting Started	17	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/bring-your-own-data.html
 AnVIL Book: Getting Started	17	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data.html
@@ -6118,6 +6162,8 @@ AnVIL Book: Getting Started	18	04	2025	United States	jhudatascience.org/AnVIL_Bo
 AnVIL Book: Getting Started	18	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	18	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/pis-and-lab-managers.html
 AnVIL Book: Getting Started	18	04	2025	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-2-set-up-terra.html
+AnVIL Book: Getting Started	18	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/consortium-data-submitters.html
+AnVIL Book: Getting Started	18	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Getting_Started/create-a-new-workspace-1.html
 AnVIL Book: Getting Started	18	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts-step-1.html
 AnVIL Book: Getting Started	18	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
 AnVIL Book: Getting Started	18	05	2024	United States	jhudatascience.org/AnVIL_Book_Getting_Started/step-2-set-up-terra.html
@@ -8982,6 +9028,8 @@ AnVIL Book: Instructor Guide	13	04	2024	United States	jhudatascience.org/AnVIL_B
 AnVIL Book: Instructor Guide	13	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/instructor-group.html
 AnVIL Book: Instructor Guide	13	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/introduction.html
 AnVIL Book: Instructor Guide	13	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/overview-1.html
+AnVIL Book: Instructor Guide	13	04	2026	China	jhudatascience.org/AnVIL_Book_Instructor_Guide/overview-1.html
+AnVIL Book: Instructor Guide	13	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Instructor_Guide/teach-the-class.html
 AnVIL Book: Instructor Guide	13	06	2023	United Kingdom	jhudatascience.org/AnVIL_Book_Instructor_Guide/
 AnVIL Book: Instructor Guide	13	07	2023	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/
 AnVIL Book: Instructor Guide	13	07	2023	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/introduction.html
@@ -9031,6 +9079,7 @@ AnVIL Book: Instructor Guide	15	04	2024	United States	jhudatascience.org/AnVIL_B
 AnVIL Book: Instructor Guide	15	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/student-clone-workspace.html
 AnVIL Book: Instructor Guide	15	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/terra-billing-projects.html
 AnVIL Book: Instructor Guide	15	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/wrap-up.html
+AnVIL Book: Instructor Guide	15	04	2026	Serbia	jhudatascience.org/AnVIL_Book_Instructor_Guide/google-billing-account.html
 AnVIL Book: Instructor Guide	15	06	2023	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/
 AnVIL Book: Instructor Guide	15	06	2023	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/introduction.html
 AnVIL Book: Instructor Guide	15	07	2023	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/
@@ -9103,6 +9152,8 @@ AnVIL Book: Instructor Guide	17	03	2025	United States	jhudatascience.org/AnVIL_B
 AnVIL Book: Instructor Guide	17	03	2025	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/using-premade-content.html
 AnVIL Book: Instructor Guide	17	03	2025	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/wrap-up.html
 AnVIL Book: Instructor Guide	17	03	2026	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/index.html
+AnVIL Book: Instructor Guide	17	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Instructor_Guide/developing-your-own-content.html
+AnVIL Book: Instructor Guide	17	04	2026	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/index.html
 AnVIL Book: Instructor Guide	17	07	2025	South Korea	jhudatascience.org/AnVIL_Book_Instructor_Guide/
 AnVIL Book: Instructor Guide	17	07	2025	South Korea	jhudatascience.org/AnVIL_Book_Instructor_Guide/about-the-authors.html
 AnVIL Book: Instructor Guide	17	07	2025	South Korea	jhudatascience.org/AnVIL_Book_Instructor_Guide/developing-your-own-content.html
@@ -9175,6 +9226,7 @@ AnVIL Book: Instructor Guide	18	04	2024	United States	jhudatascience.org/AnVIL_B
 AnVIL Book: Instructor Guide	18	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/student-clone-workspace.html
 AnVIL Book: Instructor Guide	18	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/student-start-RStudio.html
 AnVIL Book: Instructor Guide	18	04	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/terra-billing-projects.html
+AnVIL Book: Instructor Guide	18	04	2026	Singapore	jhudatascience.org/AnVIL_Book_Instructor_Guide/set-up-funding.html
 AnVIL Book: Instructor Guide	18	09	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/
 AnVIL Book: Instructor Guide	18	09	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/introduction.html
 AnVIL Book: Instructor Guide	18	09	2024	United States	jhudatascience.org/AnVIL_Book_Instructor_Guide/overview-1.html
@@ -12180,12 +12232,17 @@ AnVIL Book: Molecular Phylogenetic Techniques	11	04	2025	United States	jhudatasc
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/finding-sequences-in-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/phylogenetics-basics.html
-AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026		jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	(not set)	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Georgia	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Germany	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Ghana	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-phylogenetic-networks.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Ghana	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-a-time-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/introduction.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Luxembourg	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Luxembourg	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Luxembourg	jhudatascience.org/AnVIL_Phylogenetic-Techniques/introduction.html
+AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Luxembourg	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-a-network.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	11	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
@@ -12453,6 +12510,26 @@ AnVIL Book: Molecular Phylogenetic Techniques	12	04	2025	United Kingdom	jhudatas
 AnVIL Book: Molecular Phylogenetic Techniques	12	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	12	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
 AnVIL Book: Molecular Phylogenetic Techniques	12	04	2025	Vietnam	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/finding-sequences-in-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Germany	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Hong Kong	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Hong Kong	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Iceland	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Iraq	jhudatascience.org/AnVIL_Phylogenetic-Techniques/finding-sequences-in-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Japan	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Norway	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/finding-sequences-in-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	Taiwan	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/introduction.html
+AnVIL Book: Molecular Phylogenetic Techniques	12	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
 AnVIL Book: Molecular Phylogenetic Techniques	12	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	12	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	12	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
@@ -12730,6 +12807,24 @@ AnVIL Book: Molecular Phylogenetic Techniques	13	04	2025	India	jhudatascience.or
 AnVIL Book: Molecular Phylogenetic Techniques	13	04	2025	Netherlands	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
 AnVIL Book: Molecular Phylogenetic Techniques	13	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
 AnVIL Book: Molecular Phylogenetic Techniques	13	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/introduction.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/phylogenetics-basics.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-a-network.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-a-time-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	Iceland	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	Moldova	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-sequences-should-i-choose.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	South Africa	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	Spain	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	Taiwan	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-neighbor-joining-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	13	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	13	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	13	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/more-phylogenetics-basics.html
 AnVIL Book: Molecular Phylogenetic Techniques	13	05	2024	China	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
@@ -12984,6 +13079,16 @@ AnVIL Book: Molecular Phylogenetic Techniques	14	04	2025	United States	jhudatasc
 AnVIL Book: Molecular Phylogenetic Techniques	14	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/rstudio.html
 AnVIL Book: Molecular Phylogenetic Techniques	14	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/sign-in.html
 AnVIL Book: Molecular Phylogenetic Techniques	14	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/why-do-we-align-sequences.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	Israel	jhudatascience.org/AnVIL_Phylogenetic-Techniques/phylogenetics-basics.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	Moldova	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-sequences-should-i-choose.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	South Africa	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	Spain	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	Taiwan	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	Taiwan	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	14	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	14	05	2024	Indonesia	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	14	05	2024	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	14	05	2025	Brazil	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-neighbor-joining-tree.html
@@ -13205,6 +13310,20 @@ AnVIL Book: Molecular Phylogenetic Techniques	15	04	2025	United Kingdom	jhudatas
 AnVIL Book: Molecular Phylogenetic Techniques	15	04	2025	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	15	04	2025	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/more-phylogenetics-basics.html
 AnVIL Book: Molecular Phylogenetic Techniques	15	04	2025	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	Australia	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-trees-in-r.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	Canada	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	Italy	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-neighbor-joining-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	South Africa	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	Spain	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
+AnVIL Book: Molecular Phylogenetic Techniques	15	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	15	05	2024	Canada	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	15	05	2024	Cuba	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	15	05	2024	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
@@ -13454,6 +13573,11 @@ AnVIL Book: Molecular Phylogenetic Techniques	16	04	2025	United Kingdom	jhudatas
 AnVIL Book: Molecular Phylogenetic Techniques	16	04	2025	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	16	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-neighbor-joining-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	16	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-parsimony-tree.html
+AnVIL Book: Molecular Phylogenetic Techniques	16	04	2026	France	jhudatascience.org/AnVIL_Phylogenetic-Techniques/adding-calibration-points-to-your-phylogenies.html
+AnVIL Book: Molecular Phylogenetic Techniques	16	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	16	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/index.html
+AnVIL Book: Molecular Phylogenetic Techniques	16	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	16	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	16	05	2024	South Africa	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	16	05	2024	United Kingdom	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	16	05	2024	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
@@ -13721,6 +13845,9 @@ AnVIL Book: Molecular Phylogenetic Techniques	17	04	2025	United States	jhudatasc
 AnVIL Book: Molecular Phylogenetic Techniques	17	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
 AnVIL Book: Molecular Phylogenetic Techniques	17	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	17	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/visualizing-phylogenetic-networks.html
+AnVIL Book: Molecular Phylogenetic Techniques	17	04	2026	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
+AnVIL Book: Molecular Phylogenetic Techniques	17	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
+AnVIL Book: Molecular Phylogenetic Techniques	17	04	2026	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	17	05	2025	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-parsimony-method-of-tree-estimation.html
 AnVIL Book: Molecular Phylogenetic Techniques	17	05	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/ancestral-state-reconstruction.html
 AnVIL Book: Molecular Phylogenetic Techniques	17	06	2025	Canada	jhudatascience.org/AnVIL_Phylogenetic-Techniques/creating-a-multiple-sequence-alignment.html
@@ -13970,6 +14097,7 @@ AnVIL Book: Molecular Phylogenetic Techniques	18	04	2025	United States	jhudatasc
 AnVIL Book: Molecular Phylogenetic Techniques	18	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/estimating-a-tree-using-maximum-likelihood.html
 AnVIL Book: Molecular Phylogenetic Techniques	18	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/more-phylogenetics-basics.html
 AnVIL Book: Molecular Phylogenetic Techniques	18	04	2025	United States	jhudatascience.org/AnVIL_Phylogenetic-Techniques/what-is-maximum-likelihood.html
+AnVIL Book: Molecular Phylogenetic Techniques	18	04	2026	Singapore	jhudatascience.org/AnVIL_Phylogenetic-Techniques/about-the-authors.html
 AnVIL Book: Molecular Phylogenetic Techniques	18	05	2024	Chile	jhudatascience.org/AnVIL_Phylogenetic-Techniques/downloading-the-sequences-from-genbank.html
 AnVIL Book: Molecular Phylogenetic Techniques	18	05	2024	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/building-a-neighbor-joining-tree.html
 AnVIL Book: Molecular Phylogenetic Techniques	18	05	2024	India	jhudatascience.org/AnVIL_Phylogenetic-Techniques/the-neighbor-joining-method-of-tree-estimation.html
@@ -17123,6 +17251,7 @@ AnVIL Book: SRA Data	11	12	2024	United States	hutchdatascience.org/AnVIL_SRA_Dat
 AnVIL Book: SRA Data	11	12	2024	United States	hutchdatascience.org/AnVIL_SRA_Data/quick-start.html
 AnVIL Book: SRA Data	12	01	2026	China	hutchdatascience.org/AnVIL_SRA_Data/about-the-authors.html
 AnVIL Book: SRA Data	12	03	2026	United States	hutchdatascience.org/AnVIL_SRA_Data/
+AnVIL Book: SRA Data	12	04	2026	Singapore	hutchdatascience.org/AnVIL_SRA_Data/references.html
 AnVIL Book: SRA Data	12	06	2024	United States	hutchdatascience.org/AnVIL_SRA_Data/
 AnVIL Book: SRA Data	12	11	2025	China	hutchdatascience.org/AnVIL_SRA_Data/about-the-authors.html
 AnVIL Book: SRA Data	12	11	2025	Singapore	hutchdatascience.org/AnVIL_SRA_Data/about-the-authors.html
@@ -17308,6 +17437,7 @@ AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon 
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	11	01	2026	China	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/population-genetics-in-the-urban-environment.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	11	01	2026	China	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/setting-up-billing-on-anvil.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	12	02	2026	Singapore	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/references.html
+AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	12	04	2026	Singapore	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/about-the-authors.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	13	01	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	13	01	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/activity-overview.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	13	01	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/before-you-begin.html
@@ -17342,6 +17472,7 @@ AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon 
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	02	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/before-you-begin.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	02	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/index.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	02	2025	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/rock-pigeons.html
+AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	04	2026	Singapore	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/references.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	12	2024	(not set)	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/about-the-authors.html
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	12	2024	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/
 AnVIL Book: Urban Genomics: Identifying population structure among feral pigeon populations	17	12	2024	United States	hutchdatascience.org/AnVIL_Urban_Genomics_PCA/about-the-authors.html
@@ -17686,6 +17817,7 @@ AnVIL CoFests 2024	17	10	2024	United States	jhudatascience.org/AnVIL_CoFests_202
 AnVIL CoFests 2024	17	12	2024	United States	jhudatascience.org/AnVIL_CoFests_2024/
 AnVIL CoFests 2024	17	12	2024	United States	jhudatascience.org/AnVIL_CoFests_2024/index.html
 AnVIL CoFests 2024	18	03	2026	China	jhudatascience.org/AnVIL_CoFests_2024/how-to-run-your-tool-in-anvil-with-wdl.html
+AnVIL CoFests 2024	18	04	2026	Singapore	jhudatascience.org/AnVIL_CoFests_2024/how-to-run-your-tool-in-anvil-with-wdl.html
 AnVIL CoFests 2024	18	07	2025	South Korea	jhudatascience.org/AnVIL_CoFests_2024/
 AnVIL CoFests 2024	18	07	2025	South Korea	jhudatascience.org/AnVIL_CoFests_2024/about-the-authors.html
 AnVIL CoFests 2024	18	07	2025	South Korea	jhudatascience.org/AnVIL_CoFests_2024/brainstorming-feature-requests-for-anvil.html
@@ -18066,6 +18198,7 @@ AnVIL Collection	12	03	2025	United States	hutchdatascience.org/AnVIL_Collection/
 AnVIL Collection	12	03	2026	Singapore	hutchdatascience.org/AnVIL_Collection/youtube-videos.html
 AnVIL Collection	12	03	2026	United States	hutchdatascience.org/AnVIL_Collection/
 AnVIL Collection	12	04	2025	Switzerland	hutchdatascience.org/AnVIL_Collection/
+AnVIL Collection	12	04	2026	Singapore	hutchdatascience.org/AnVIL_Collection/index.html
 AnVIL Collection	12	06	2024	United States	hutchdatascience.org/AnVIL_Collection/
 AnVIL Collection	12	06	2025	United States	hutchdatascience.org/AnVIL_Collection/
 AnVIL Collection	12	07	2024	United States	hutchdatascience.org/AnVIL_Collection/
@@ -18428,6 +18561,8 @@ AnVIL_Book_WDL	12	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/custom
 AnVIL_Book_WDL	12	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/import-and-configure-workflows.html
 AnVIL_Book_WDL	12	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/review-workflows-on-anvil-powered-by-terra.html
 AnVIL_Book_WDL	12	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
+AnVIL_Book_WDL	12	04	2026	Iraq	jhudatascience.org/AnVIL_Book_WDL/customize-docker.html
+AnVIL_Book_WDL	12	04	2026	Singapore	jhudatascience.org/AnVIL_Book_WDL/customize-docker.html
 AnVIL_Book_WDL	12	11	2025	China	jhudatascience.org/AnVIL_Book_WDL/import-and-configure-workflows.html
 AnVIL_Book_WDL	12	11	2025	Singapore	jhudatascience.org/AnVIL_Book_WDL/import-and-configure-workflows.html
 AnVIL_Book_WDL	12	12	2025	China	jhudatascience.org/AnVIL_Book_WDL/
@@ -18441,6 +18576,8 @@ AnVIL_Book_WDL	13	02	2026	United States	jhudatascience.org/AnVIL_Book_WDL/review
 AnVIL_Book_WDL	13	03	2026	Uganda	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
 AnVIL_Book_WDL	13	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/
 AnVIL_Book_WDL	13	03	2026	United States	jhudatascience.org/AnVIL_Book_WDL/customize-docker.html
+AnVIL_Book_WDL	13	04	2026	China	jhudatascience.org/AnVIL_Book_WDL/customize-docker.html
+AnVIL_Book_WDL	13	04	2026	United States	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
 AnVIL_Book_WDL	13	11	2025	China	jhudatascience.org/AnVIL_Book_WDL/
 AnVIL_Book_WDL	13	11	2025	Singapore	jhudatascience.org/AnVIL_Book_WDL/
 AnVIL_Book_WDL	13	11	2025	United States	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
@@ -18449,6 +18586,8 @@ AnVIL_Book_WDL	14	01	2026	China	jhudatascience.org/AnVIL_Book_WDL/import-and-con
 AnVIL_Book_WDL	14	03	2026	Singapore	jhudatascience.org/AnVIL_Book_WDL/
 AnVIL_Book_WDL	14	03	2026	Singapore	jhudatascience.org/AnVIL_Book_WDL/about-the-authors.html
 AnVIL_Book_WDL	14	03	2026	Uganda	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
+AnVIL_Book_WDL	14	04	2026	United States	jhudatascience.org/AnVIL_Book_WDL/customize-docker.html
+AnVIL_Book_WDL	14	04	2026	United States	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
 AnVIL_Book_WDL	14	11	2025	Colombia	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
 AnVIL_Book_WDL	14	11	2025	United States	jhudatascience.org/AnVIL_Book_WDL/write-wdl.html
 AnVIL_Book_WDL	14	12	2025	China	jhudatascience.org/AnVIL_Book_WDL/import-and-configure-workflows.html
@@ -18597,6 +18736,12 @@ Data_on_AnVIL	13	03	2026	United States	hutchdatascience.org/Data_on_AnVIL/
 Data_on_AnVIL	13	03	2026	United States	hutchdatascience.org/Data_on_AnVIL/uploading-cloud.html
 Data_on_AnVIL	13	03	2026	United States	hutchdatascience.org/Data_on_AnVIL/uploading-hpc.html
 Data_on_AnVIL	13	03	2026	United States	hutchdatascience.org/Data_on_AnVIL/uploading-local-computer.html
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/give-us-feedback.html
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/importing-sra.html
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/uploading-cloud.html
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/uploading-hpc.html
+Data_on_AnVIL	13	04	2026	Singapore	hutchdatascience.org/Data_on_AnVIL/uploading-local-computer.html
 Data_on_AnVIL	13	11	2025	United States	hutchdatascience.org/Data_on_AnVIL/
 Data_on_AnVIL	14	11	2025	China	hutchdatascience.org/Data_on_AnVIL/anvil-data-explorer.html
 Data_on_AnVIL	14	11	2025	China	hutchdatascience.org/Data_on_AnVIL/introduction.html
