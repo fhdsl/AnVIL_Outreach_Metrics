@@ -10,7 +10,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 
 ## Google Scholar Mentions
 
-This tracks the cumulative number of mentions of the keywords `anvil nhgri` on Google Scholar. For example, for 2026 only, we'd see the number of hits with the following url: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&as_ylo=2026&q=anvil+nhgri&btnG=
+This tracks the cumulative number of mentions of the keywords `anvil nhgri` on Google Scholar. For example, for 2026 only, we'd see the number of hits with [this url](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&as_ylo=2026&q=anvil+nhgri&btnG=).
 
 This data is fairly small and static, and is thus stored in the `data/` directory.
 
