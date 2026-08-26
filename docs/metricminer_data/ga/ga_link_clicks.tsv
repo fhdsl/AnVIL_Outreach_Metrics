@@ -38,10 +38,13 @@ AnVIL Book: AnVIL Demos	https://en.wikipedia.org/wiki/Command-line_interface
 AnVIL Book: AnVIL Demos	https://forms.gle/AK12iVXTjsB7yCUUA
 AnVIL Book: AnVIL Demos	https://github.com/jhudsl/OTTR_Template
 AnVIL Book: AnVIL Demos	https://github.com/mccoy-lab/MAGE
+AnVIL Book: AnVIL Demos	https://hutchdatascience.org/AnVIL_Demos/what-is-anvil-exercises.html
 AnVIL Book: AnVIL Demos	https://isee.github.io/iSEEWorkshopEuroBioc2020/
 AnVIL Book: AnVIL Demos	https://isee.github.io/iSEEWorkshopEuroBioc2020/articles/dataset.html
 AnVIL Book: AnVIL Demos	https://jhudatascience.org/AnVIL_Book_Getting_Started/data-analysts.html
 AnVIL Book: AnVIL Demos	https://jhudatascience.org/AnVIL_Book_Getting_Started/overview-analysts.html
+AnVIL Book: AnVIL Demos	https://pmc.ncbi.nlm.nih.gov/articles/PMC11291278/
+AnVIL Book: AnVIL Demos	https://support.terra.bio/hc/article_attachments/360089799392
 AnVIL Book: AnVIL Demos	https://support.terra.bio/hc/en-us/articles/360029801491
 AnVIL Book: AnVIL Demos	https://www.youtube.com/watch?v=0PRCFkLZOeo&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
 AnVIL Book: AnVIL Demos	https://www.youtube.com/watch?v=44X-m-JLPTA&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
@@ -79,6 +82,7 @@ AnVIL Book: Getting Started	https://anvilproject.org/learn/data-submitters/submi
 AnVIL Book: Getting Started	https://anvilproject.org/learn/interactive-analysis/getting-started-with-bioconductor
 AnVIL Book: Getting Started	https://anvilproject.org/learn/interactive-analysis/getting-started-with-galaxy
 AnVIL Book: Getting Started	https://anvilproject.org/learn/interactive-analysis/getting-started-with-jupyter-notebooks
+AnVIL Book: Getting Started	https://anvilproject.org/news/2024/11/15/duos-announcement
 AnVIL Book: Getting Started	https://anvilproject.org/overview
 AnVIL Book: Getting Started	https://bioconductor.org/packages/release/bioc/vignettes/Glimma/inst/doc/limma_edger.html
 AnVIL Book: Getting Started	https://bookdown.org/
@@ -99,6 +103,7 @@ AnVIL Book: Getting Started	https://docs.google.com/presentation/d/1eypYLLqD11-N
 AnVIL Book: Getting Started	https://docs.google.com/presentation/d/1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q
 AnVIL Book: Getting Started	https://docs.google.com/presentation/d/1yYCg4cPVBMMDghT17B4XzROieqyMH99Ex9nMm_Scm9Q/edit?usp=sharing
 AnVIL Book: Getting Started	https://docs.google.com/spreadsheets/d/1GUN93HDRqDbZ0uktaZjoP-y8Ril1T_VIJnQrjRD6tV4
+AnVIL Book: Getting Started	https://explore.anvilproject.org/datasets
 AnVIL Book: Getting Started	https://gen3.theanvil.io/
 AnVIL Book: Getting Started	https://gen3.theanvil.io/login
 AnVIL Book: Getting Started	https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02016-0
@@ -220,12 +225,18 @@ AnVIL Collection	https://jhudatascience.org/GDSCN_Book_Statistics_for_Genomics_P
 AnVIL Collection	https://jhudatascience.org/GDSCN_Book_swirl/
 AnVIL Collection	https://www.youtube.com/@anvilproject1223
 AnVIL Collection	https://www.youtube.com/@anvilprojectorg
+AnVIL Collection	https://www.youtube.com/watch?v=0PRCFkLZOeo&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
 AnVIL Collection	https://www.youtube.com/watch?v=3YXlF1mbsWI&list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio
 AnVIL Collection	https://www.youtube.com/watch?v=7qvQ8DZHC9w&list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio
 AnVIL Collection	https://www.youtube.com/watch?v=BVmOtH04qhI&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
 AnVIL Collection	https://www.youtube.com/watch?v=fcMUU7NrEeM&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
+AnVIL Collection	https://www.youtube.com/watch?v=loApm3jUkG0&list=PL6aYJ_0zJ4uC978C57P3TgAAfB38uy58E
 AnVIL Collection	https://www.youtube.com/watch?v=wXceBLcNj4s&list=PL6aYJ_0zJ4uCABkMngSYjPo_3c-nUUmio
 AnVIL_Book_WDL	
 AnVIL_Book_WDL	https://anvilproject.org/
+AnVIL_Book_WDL	https://dockstore.org/
+AnVIL_Book_WDL	https://github.com/marketplace/actions/build-and-push-docker-images
+AnVIL_Book_WDL	https://hutchdatascience.org/AnVIL_Collection/
 AnVIL_Outreach_Dashboard	
 Data_on_AnVIL	
+Data_on_AnVIL	https://anvilproject.org/

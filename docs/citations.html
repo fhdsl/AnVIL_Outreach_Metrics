@@ -370,7 +370,7 @@ div.tocify {
 
 
 <h1 class="title toc-ignore">Citations</h1>
-<h4 class="date">28 April, 2026</h4>
+<h4 class="date">26 August, 2026</h4>
 
 </div>
 
@@ -396,10 +396,8 @@ this will be fixed soon.</p>
 citations %&gt;%
   distinct(original_paper, cite_titles, .keep_all = TRUE) %&gt;%
   count(original_paper)</code></pre>
-<pre><code>## # A tibble: 1 × 2
-##   original_paper                                                               n
-##   &lt;chr&gt;                                                                    &lt;int&gt;
-## 1 Inverting the model of genomics data sharing with the NHGRI Genomic Dat…    10</code></pre>
+<pre><code>## # A tibble: 0 × 2
+## # ℹ 2 variables: original_paper &lt;chr&gt;, n &lt;int&gt;</code></pre>
 </div>
 <div id="data-information" class="section level2">
 <h2>Data information</h2>
@@ -413,12 +411,7 @@ paper</li>
 original paper (the <code>cite_titles</code> papers).</li>
 </ul>
 <pre class="r"><code>knitr::kable(citations)</code></pre>
-<table style="width:100%;">
-<colgroup>
-<col width="33%" />
-<col width="43%" />
-<col width="22%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th align="left">original_paper</th>
@@ -427,95 +420,6 @@ original paper (the <code>cite_titles</code> papers).</li>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">Deciphering the impact of genomic variation on
-function</td>
-<td align="left"><a
-href="https://www.nature.com/articles/s41586-024-07510-0"
-class="uri">https://www.nature.com/articles/s41586-024-07510-0</a></td>
-</tr>
-<tr class="even">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">The Human Pangenome Project: a global resource to map
-genomic diversity</td>
-<td align="left"><a
-href="https://www.nature.com/articles/s41586-022-04601-8"
-class="uri">https://www.nature.com/articles/s41586-022-04601-8</a></td>
-</tr>
-<tr class="odd">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">The Galaxy platform for accessible, reproducible, and
-collaborative data analyses: 2024 update</td>
-<td align="left"><a
-href="https://academic.oup.com/nar/article-abstract/52/W1/W83/7676834"
-class="uri">https://academic.oup.com/nar/article-abstract/52/W1/W83/7676834</a></td>
-</tr>
-<tr class="even">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">[HTML][HTML] A draft human pangenome reference</td>
-<td align="left"><a
-href="https://www.nature.com/articles/s41586-023-05896-x"
-class="uri">https://www.nature.com/articles/s41586-023-05896-x</a></td>
-</tr>
-<tr class="odd">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">The complete sequence of a human Y chromosome</td>
-<td align="left"><a
-href="https://www.nature.com/articles/s41586-023-06457-y"
-class="uri">https://www.nature.com/articles/s41586-023-06457-y</a></td>
-</tr>
-<tr class="even">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">The Galaxy platform for accessible, reproducible and
-collaborative biomedical analyses: 2022 update</td>
-<td align="left"><a
-href="https://academic.oup.com/nar/article-abstract/50/W1/W345/6572001"
-class="uri">https://academic.oup.com/nar/article-abstract/50/W1/W345/6572001</a></td>
-</tr>
-<tr class="odd">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">The Galaxy platform for accessible, reproducible and
-collaborative biomedical analyses: 2018 update</td>
-<td align="left"><a
-href="https://academic.oup.com/nar/article-abstract/46/W1/W537/5001157"
-class="uri">https://academic.oup.com/nar/article-abstract/46/W1/W537/5001157</a></td>
-</tr>
-<tr class="even">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">A complete reference genome improves analysis of human
-genetic variation</td>
-<td align="left"><a
-href="https://www.science.org/doi/abs/10.1126/science.abl3533"
-class="uri">https://www.science.org/doi/abs/10.1126/science.abl3533</a></td>
-</tr>
-<tr class="odd">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">[HTML][HTML] Current trends, limitations and future
-research in the fungi?</td>
-<td align="left"><a
-href="https://link.springer.com/article/10.1007/s13225-023-00532-5"
-class="uri">https://link.springer.com/article/10.1007/s13225-023-00532-5</a></td>
-</tr>
-<tr class="even">
-<td align="left">Inverting the model of genomics data sharing with the
-NHGRI Genomic Data Science Analysis,…</td>
-<td align="left">Scalable Nanopore sequencing of human genomes provides
-a comprehensive view of haplotype-resolved variation and
-methylation</td>
-<td align="left"><a
-href="https://www.nature.com/articles/s41592-023-01993-x"
-class="uri">https://www.nature.com/articles/s41592-023-01993-x</a></td>
-</tr>
 </tbody>
 </table>
 </div>
