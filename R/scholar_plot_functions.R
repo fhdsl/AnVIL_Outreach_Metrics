@@ -1,5 +1,8 @@
 library(tidyverse)
 library(ggplot2)
+if(length(find.package("patchwork", quiet=TRUE)) == 0) {
+  install.packages("patchwork")
+}
 library(patchwork)
 
 make_scholar_hits_plot <- function(){
