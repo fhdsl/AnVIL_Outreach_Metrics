@@ -1,8 +1,14 @@
-﻿year,num_hits
-2020,17
-2021,43
-2022,50
-2023,64
-2024,45
-2025,67
-2026,19
+﻿year,type,num_hits
+2020,keywords,17
+2021,keywords,43
+2022,keywords,50
+2023,keywords,64
+2024,keywords,45
+2025,keywords,67
+2026,keywords,65
+2021,flagship paper,5
+2022,flagship paper,22
+2023,flagship paper,44
+2024,flagship paper,35
+2025,flagship paper,33
+2026,flagship paper,20
