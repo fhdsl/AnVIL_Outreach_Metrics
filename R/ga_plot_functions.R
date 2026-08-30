@@ -50,7 +50,7 @@ make_session_cumsum_sessions <- function(in_data) {
     color = ~ website,
     mode = 'lines',
     text = ~ paste(website),
-    linewidth = 2
+    line = list(width = 4)
   ) %>% layout(
     showlegend = FALSE,
     xaxis = list(title = ''),
