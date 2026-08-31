@@ -370,13 +370,20 @@ div.tocify {
 
 
 <h1 class="title toc-ignore">YouTube</h1>
-<h4 class="date">26 August, 2026</h4>
+<h4 class="date">31 August, 2026</h4>
 
 </div>
 
 
 <div id="preview" class="section level2">
 <h2>Preview</h2>
+<pre class="r"><code># Manual read of YouTube views. Local use only and can likely be deleted once we have all the links for the API!
+yt_views &lt;- googlesheets4::read_sheet(
+  &quot;https://docs.google.com/spreadsheets/d/1rV2bQOoOFxpC3izPdwhH3ph6FZ_aVdX9YHKWkNdZqZE/edit?gid=0#gid=0&quot;,
+  sheet = 1
+)
+yt_views$cumsum &lt;- cumsum(yt_views$Views)
+make_yt_views_plot(yt_views)</code></pre>
 </div>
 <div id="data-information" class="section level2">
 <h2>Data information</h2>
